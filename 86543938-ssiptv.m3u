@@ -1,0 +1,10 @@
+#EXTM3U size="Big"
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",Live
+#EXTBG:https://i.imgur.com/JCcgEeo.png
+https://carijo.art/ssiptv/get/86543938/95271942/list_lives/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",Movie
+#EXTBG:https://i.imgur.com/vnPmfhz.png
+https://carijo.art/ssiptv/get/86543938/95271942/movie_categories/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",Series
+#EXTBG:https://i.imgur.com/vJD9S1U.png
+https://carijo.art/ssiptv/get/86543938/95271942/serie_categories/
